@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "displayName": "",
-    "description": "",
+    "name": "rampart",
+    "displayName": "Rampart",
+    "description": "Color ramp generator for Aseprite",
     "version": "1.0.0",
     "author": {
         "name": "John Riggles",
@@ -15,7 +15,7 @@
     "contributes": {
         "scripts": [
             {
-                "path": "./<extension name here>.lua"
+                "path": "./rampart.lua"
             }
         ]
     }
